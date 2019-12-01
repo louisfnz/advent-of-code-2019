@@ -1,14 +1,15 @@
 {
   "name": "advent-of-code-2019",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Louis' Advent of Code 2019 Repo.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "@louiswtf",
   "license": "ISC",
-  "dependencies": {
-    "fs-extra": "^8.1.0"
-  }
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/louiswtf/advent-of-code-2019.git"
+  },
+  "dependencies": {}
 }
