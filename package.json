@@ -8,8 +8,8 @@
   "author": "@louiswtf",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/louiswtf/advent-of-code-2019.git"
+    "type": "git",
+    "url": "https://github.com/louiswtf/advent-of-code-2019.git"
   },
   "dependencies": {}
 }
