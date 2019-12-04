@@ -23,6 +23,4 @@ for (let attempt = range_from; attempt <= range_to; attempt++) {
     if (pass && has_only_double) count++;
 }
 
-
-
 console.log('count', count);
